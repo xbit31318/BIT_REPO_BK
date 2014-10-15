@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="repository.xbrepo" name="xbrepo's repository" provider-name="xbrepo" version="1.0.1">
-    <extension name="xbrepo's Repository" point="xbmc.addon.repository">
+<addon id="repository.ebak" name="ebak's repository" provider-name="ebak" version="1.0.0">
+    <extension name="ebak's repository" point="xbmc.addon.repository">
 		
-		<info>https://raw.githubusercontent.com/lhy046510/BIT_REPO/master/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/lhy046510/BIT_REPO/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/lhy046510/BIT_REPO/master/zips/</datadir>
+		<info>https://raw.githubusercontent.com/xbit31318/BIT_REPO_BK/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/xbit31318/BIT_REPO_BK/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/xbit31318/BIT_REPO_BK/master/zips/</datadir>
 		
     </extension>
     <extension point="xbmc.addon.metadata">
@@ -16,12 +16,12 @@
     </extension>
 </addon>
 
-<addon id="repository.xbrepo.ebak" name="xbrepo's repository.ebak" provider-name="xbrepo.ebak" version="1.0.0">
-    <extension name="xbrepo's Repository.ebak" point="xbmc.addon.repository">
+<addon id="repository.xbrepo" name="xbrepo's repository" provider-name="xbrepo" version="1.0.1">
+    <extension name="xbrepo's Repository" point="xbmc.addon.repository">
 		
-		<info>https://raw.githubusercontent.com/xbit31318/BIT_REPO_BK/master/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/xbit31318/BIT_REPO_BK/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/xbit31318/BIT_REPO_BK/master/zips/</datadir>
+		<info>https://raw.githubusercontent.com/lhy046510/BIT_REPO/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/lhy046510/BIT_REPO/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/lhy046510/BIT_REPO/master/zips/</datadir>
 		
     </extension>
     <extension point="xbmc.addon.metadata">
